@@ -1,0 +1,5 @@
+n=input()
+if 'A' or 'AB' or 'ABB' in n:
+  print("1")
+else:
+  print("0")
